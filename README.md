@@ -18,4 +18,4 @@ Descargue Python 3.9.5 de un sitio oficial y luego copie el archivo llamado Comp
 Juan David García Pulido ([JJDDGGPP (github.com)](https://github.com/JJDDGGPP))
 
 ## Licencia
-Este proyecto está bajo la Licencia (GNU) - mira el archivo LICENSE.txt para detalles
+Este proyecto está bajo la Licencia (GNU) - mira el archivo LICENSE para detalles

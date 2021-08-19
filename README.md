@@ -10,7 +10,7 @@ Descargue Python 3.9.5 de un sitio oficial y luego copie el archivo llamado Comp
 
 Construido con
 [PyCharm](PyCharm: el IDE de Python para desarrolladores profesionales, por JetBrains) - IDE utilizado para el desarrollo de la librería y el test.
-[Python 3.7.7](Welcome to Python.org) - Lenguaje de la librería.
+[Python 3.9.5](Welcome to Python.org) - Lenguaje de la librería.
 
 Autores
 Juan David García Pulido [JJDDGGPP](JJDDGGPP (github.com))
